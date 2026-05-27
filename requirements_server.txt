@@ -1,0 +1,5 @@
+fastmcp
+python-docx
+lxml
+uvicorn
+starlette
